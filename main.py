@@ -12,7 +12,7 @@ BOARD_HEIGHT = 20
 FPS = 60
 BLACK = (0, 0, 0)
 # Картинки блоков
-faces = ['creepy', 'sad', 'angry', 'crying', 'dead', 'happy', 'O', 'ok', 'oops', 'sad', 'uwu']
+faces = ['creepy', 'sad', 'angry', 'crying', 'dead', 'happy', 'O', 'ok', 'oops', 'sad', 'W']
 blockImages = [f"images/{i}.png" for i in faces]  # Пример: block1.png, block2.png, ..., block10.png
 # Список цветов
 colors = [
